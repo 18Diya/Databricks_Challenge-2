@@ -14,7 +14,7 @@ Excited to sharpen my Databricks, Spark, and AI engineering skills through real-
 
 Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club.](https://www.linkedin.com/company/indian-data-club/)
 
-# Day 0 (20/02/26) – Setup & Data Loading  
+# Day 0 – Setup & Data Loading  
 
 Focused on building a strong data foundation before starting advanced engineering workflows.
 
@@ -61,3 +61,25 @@ Tasks I Completed:
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/2e8fb3b2-0eb1-49ca-ac6a-4ecfd8207040" />
 
 <img width="1914" height="859" alt="image" src="https://github.com/user-attachments/assets/2a59f29b-cb4b-47f2-a532-2bee3995a59b" />
+
+# Day 3 (22/02/26) –  Job Orchestration Basics
+
+Completed Day 3 focusing on production-grade job orchestration and automation in Databricks.
+
+What I Learned Today:
+→ Difference between interactive notebooks and production jobs
+→ How parameterized notebooks enable reusable, environment-driven pipelines
+→ Basic job scheduling for automated daily execution
+→ Structuring modular code for scalable data workflows
+
+Tasks I Completed:
+→ Added widget parameters to control notebook execution dynamically
+→ Modularized feature engineering logic into clean reusable functions
+→ Created a production Job in Databricks UI
+→ Configured a daily scheduled run for automated pipeline execution
+
+<img width="1918" height="885" alt="Screenshot 2026-02-22 121030" src="https://github.com/user-attachments/assets/3792c1c6-2ef7-4236-96cc-38b598a78c84" />
+
+<img width="1919" height="805" alt="Screenshot 2026-02-22 121050" src="https://github.com/user-attachments/assets/83e97d2a-82e3-4cbc-be5a-4cf8641edd00" />
+
+<img width="1919" height="746" alt="Screenshot 2026-02-22 120953" src="https://github.com/user-attachments/assets/c2691020-ce01-40a2-8f86-ff7fb2ef03a1" />
