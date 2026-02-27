@@ -185,3 +185,25 @@ Tasks I Completed:
 <img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/f335b63b-deeb-453b-993b-4bf34b074ae6" />
 
 <img width="1919" height="591" alt="image" src="https://github.com/user-attachments/assets/9ab0640a-68e4-44b6-a988-ba23c7d6f5f8" />
+
+# Day 8 (27/02/26) – Batch Inference Pipeline
+
+Completed Day 8 focusing on building a batch inference pipeline and creating a production-ready Gold layer.
+
+What I Learned Today:
+→ How to perform batch scoring using a trained ML model
+→ How to reload models from MLflow for inference
+→ Converting model outputs into business-ready probabilities
+→ Designing a Gold layer table for downstream consumption
+
+Tasks I Completed:
+→ Scored all users using the trained RandomForest model
+→ Saved predictions into a Gold Delta table
+→ Extracted purchase probabilities from Spark ML vectors
+→ Identified top predicted buyers based on probability ranking
+
+<img width="1919" height="737" alt="image" src="https://github.com/user-attachments/assets/88538003-31c4-4172-a9e0-491017a37cd9" />
+
+<img width="1919" height="721" alt="image" src="https://github.com/user-attachments/assets/6d5631ff-d7a8-4b55-9e4c-d56d16013a0f" />
+
+<img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/e25fcb26-a05b-4f27-9c46-efb1302a57b6" />
