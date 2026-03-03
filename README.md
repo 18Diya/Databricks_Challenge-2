@@ -275,3 +275,28 @@ Tasks I Completed: → Appended new records to Delta table → Queried an older 
 
 <img width="1912" height="619" alt="image" src="https://github.com/user-attachments/assets/c56cdd3a-548e-43ed-96ea-481415c33bde" />
 
+# DAY 12 (03/03/26) – Cost Optimization Basics
+
+Completed Day 12 focusing on Spark cost optimization and performance tuning.
+
+What I Learned Today:
+→ How Spark shuffles impact performance
+→ Difference between recomputation and caching
+→ Importance of partition strategy
+→ How to inspect physical plans
+
+Tasks I Completed:
+→ Measured baseline execution time
+→ Analyzed physical execution plan
+→ Implemented caching to avoid recompute
+→ Compared optimized runtime results
+
+<img width="1909" height="909" alt="image" src="https://github.com/user-attachments/assets/fd5e141f-08be-48a6-92be-db16f4e8b2b5" />
+
+<img width="1919" height="767" alt="image" src="https://github.com/user-attachments/assets/de72c7f8-0ea5-4dc3-a6dc-0f378560b525" />
+
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/cf52c258-16fa-4e62-bf4f-8904fbae4fe3" />
+
+<img width="1917" height="382" alt="image" src="https://github.com/user-attachments/assets/3ff4b3cd-8a5e-42ea-a13c-9be3d9664497" />
+
+
