@@ -299,4 +299,26 @@ Tasks I Completed:
 
 <img width="1917" height="382" alt="image" src="https://github.com/user-attachments/assets/3ff4b3cd-8a5e-42ea-a13c-9be3d9664497" />
 
+# DAY 13 (04/03/26) – End-to-End Architecture Design
+
+Completed Day 13 focusing on designing the end-to-end architecture of the data and machine learning pipeline.
+
+What I Learned Today:
+→ How to design a scalable end-to-end data architecture using the Medallion pattern
+→ Understanding the role of Bronze, Silver, and Gold layers in a modern data pipeline
+→ Integrating machine learning workflows with data pipelines using MLflow
+→ The importance of defining retraining strategies to handle model drift and changing data patterns
+
+Tasks I Completed:
+→ Designed the architecture diagram representing the complete Bronze → Silver → Gold pipeline
+→ Documented the full data pipeline flow from raw event ingestion to model predictions
+→ Explained how feature engineering, model training, and experiment tracking fit into the architecture
+→ Defined a retraining strategy based on scheduled retraining, performance monitoring, and data drift detection
+
+<img width="1377" height="738" alt="image" src="https://github.com/user-attachments/assets/2bcb934d-fc5c-4a3e-976c-fcc4ae36c5db" />
+
+<img width="1387" height="911" alt="image" src="https://github.com/user-attachments/assets/66d1381e-191c-4d80-b68e-4df790024e5c" />
+
+<img width="1333" height="894" alt="image" src="https://github.com/user-attachments/assets/dce61b71-1800-48d1-bee7-b53304529dcc" />
+
 
