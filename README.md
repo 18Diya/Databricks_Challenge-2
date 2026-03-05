@@ -321,4 +321,20 @@ Tasks I Completed:
 
 <img width="1333" height="894" alt="image" src="https://github.com/user-attachments/assets/dce61b71-1800-48d1-bee7-b53304529dcc" />
 
+DAY 14 (05/03/26) – Final Production-Ready System
+
+Completed Day 14 focusing on building a final production ready system by combining the complete data pipeline with the machine learning workflow.
+
+What I Learned Today: → How to integrate a full data pipeline with a machine learning pipeline into a single production system → Understanding scalability considerations when designing data and ML workflows → Learning how monitoring helps track pipeline health, model performance, and data quality → Understanding failure handling strategies such as logging, retries, and validation checks in production systems
+
+Tasks I Completed: → Combined the Bronze Silver Gold data pipeline with the machine learning training and inference pipeline → Saved the final trained model so it can be reused for batch predictions → Organized the complete workflow from data ingestion to final predictions → Documented and presented the end to end system showing how data processing, model training, and prediction are connected
+
+<img width="1917" height="702" alt="image" src="https://github.com/user-attachments/assets/13732f9e-fd94-4fdc-99cf-d4b36ac663a0" />
+
+<img width="1910" height="885" alt="image" src="https://github.com/user-attachments/assets/0ed3a14b-f3f5-4592-b321-c1790411f6d7" />
+
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/f4b3c03b-1e88-4f40-9376-8f927de2927d" />
+
+<img width="1918" height="612" alt="image" src="https://github.com/user-attachments/assets/cfcec4dc-7e44-4523-9b3f-c2df7a9abaa6" />
+
 
